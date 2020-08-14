@@ -2243,6 +2243,10 @@ table {
 	background: #ffdde0;
 }
 
+.thread_start_datetime { 	
+ color: #999; 
+}
+
 .post.unapproved_post .post_author {
 	border-bottom-color: #ffb8be;
 }
