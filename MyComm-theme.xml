@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<theme name="MyComm" version="1822">
+<theme name="MyComm" version="1824">
 	<properties>
-		<templateset><![CDATA[4]]></templateset>
+		<templateset><![CDATA[10]]></templateset>
 		<editortheme><![CDATA[mybb.css]]></editortheme>
 		<imgdir><![CDATA[images]]></imgdir>
 		<logo><![CDATA[images/logo.png]]></logo>
@@ -11,7 +11,7 @@
 		<disporder><![CDATA[a:17:{s:10:"global.css";i:1;s:8:"css3.css";i:2;s:10:"usercp.css";i:3;s:17:"thread_status.css";i:4;s:16:"star_ratings.css";i:5;s:9:"modcp.css";i:6;s:14:"showthread.css";i:7;s:15:"color_black.css";i:8;s:14:"color_calm.css";i:9;s:14:"color_dawn.css";i:10;s:15:"color_earth.css";i:11;s:15:"color_flame.css";i:12;s:14:"color_leaf.css";i:13;s:15:"color_night.css";i:14;s:13:"color_sun.css";i:15;s:18:"color_twilight.css";i:16;s:15:"color_water.css";i:17;}]]></disporder>
 	</properties>
 	<stylesheets>
-		<stylesheet name="star_ratings.css" attachedto="forumdisplay.php|showthread.php" version="1822"><![CDATA[/*
+		<stylesheet name="star_ratings.css" attachedto="forumdisplay.php|showthread.php" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: star_rating.css
@@ -115,9 +115,10 @@ td .star_rating {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="thread_status.css" attachedto="forumdisplay.php|usercp.php|search.php" version="1822"><![CDATA[/*
+		<stylesheet name="thread_status.css" attachedto="forumdisplay.php|usercp.php|search.php" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: thread_status.css
@@ -207,9 +208,10 @@ td .star_rating {
 }
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="showthread.css" attachedto="showthread.php" version="1822"><![CDATA[/*
+		<stylesheet name="showthread.css" attachedto="showthread.php" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: showthread.css
@@ -271,9 +273,10 @@ ul.thread_tools li.poll {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1822"><![CDATA[/*
+		<stylesheet name="usercp.css" attachedto="usercp.php|usercp2.php|private.php" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: usercp.css
@@ -438,9 +441,10 @@ ul.thread_tools li.poll {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="modcp.css" attachedto="modcp.php" version="1822"><![CDATA[/*
+		<stylesheet name="modcp.css" attachedto="modcp.php" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: modcp.css
@@ -554,9 +558,10 @@ ul.thread_tools li.poll {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_black.css" attachedto="black" version="1822"><![CDATA[a:link,
+		<stylesheet name="color_black.css" attachedto="black" version="1824"><![CDATA[a:link,
 a:visited,
 a:hover,
 a:active {
@@ -669,9 +674,10 @@ color: #202121;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_calm.css" attachedto="calm" version="1822"><![CDATA[
+		<stylesheet name="color_calm.css" attachedto="calm" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -751,9 +757,10 @@ color: #385947;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_dawn.css" attachedto="dawn" version="1822"><![CDATA[
+		<stylesheet name="color_dawn.css" attachedto="dawn" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -832,9 +839,10 @@ color: #d56c2c;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_earth.css" attachedto="earth" version="1822"><![CDATA[
+		<stylesheet name="color_earth.css" attachedto="earth" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -913,9 +921,10 @@ color: #4a3b2f;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_flame.css" attachedto="flame" version="1822"><![CDATA[
+		<stylesheet name="color_flame.css" attachedto="flame" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -994,9 +1003,10 @@ color: #750000;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_leaf.css" attachedto="leaf" version="1822"><![CDATA[
+		<stylesheet name="color_leaf.css" attachedto="leaf" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -1075,9 +1085,10 @@ color: #386e21;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_night.css" attachedto="night" version="1822"><![CDATA[
+		<stylesheet name="color_night.css" attachedto="night" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -1156,9 +1167,10 @@ color: #022338;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_sun.css" attachedto="sun" version="1822"><![CDATA[
+		<stylesheet name="color_sun.css" attachedto="sun" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -1245,9 +1257,10 @@ color: #ffdd4d;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_twilight.css" attachedto="twilight" version="1822"><![CDATA[
+		<stylesheet name="color_twilight.css" attachedto="twilight" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -1326,9 +1339,10 @@ color: #273a46;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="color_water.css" attachedto="water" version="1822"><![CDATA[
+		<stylesheet name="color_water.css" attachedto="water" version="1824"><![CDATA[
 a:link,
 a:visited,
 a:hover,
@@ -1407,9 +1421,10 @@ color: #1e6365;
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="css3.css" version="1822"><![CDATA[/*
+		<stylesheet name="css3.css" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: css3.css
@@ -1561,9 +1576,10 @@ a.button {
 		
 		
 		
+		
 		]]>
 		</stylesheet>
-		<stylesheet name="global.css" version="1822"><![CDATA[/*
+		<stylesheet name="global.css" version="1824"><![CDATA[/*
  * MyBB: MyComm - Community Like Header Theme 
  *
  * File: global.css
@@ -3549,6 +3565,7 @@ div.jqi .jqisubstate .jqibuttons button{
 		
 		
 		
+		
 		]]>
 		</stylesheet>
 	</stylesheets>
@@ -3666,15 +3683,15 @@ div.jqi .jqisubstate .jqibuttons button{
 				{$awaitingusers}
 				<navigation>
 				<br />]]></template>
-		<template name="headerinclude" version="1820"><![CDATA[<link rel="alternate" type="application/rss+xml" title="{$lang->latest_threads} (RSS 2.0)" href="{$mybb->settings['bburl']}/syndication.php" />
+		<template name="headerinclude" version="1824"><![CDATA[<link rel="alternate" type="application/rss+xml" title="{$lang->latest_threads} (RSS 2.0)" href="{$mybb->settings['bburl']}/syndication.php" />
 <link rel="alternate" type="application/atom+xml" title="{$lang->latest_threads} (Atom 1.0)" href="{$mybb->settings['bburl']}/syndication.php?type=atom1.0" />
 <meta http-equiv="Content-Type" content="text/html; charset={$charset}" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
 <!-- Add Favicon -->
 <link rel="Shortcut icon" href="{$theme['imgdir']}/favicon.ico" />
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/jquery.js?ver=1820"></script>
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/jquery.plugins.min.js?ver=1820"></script>
-<script type="text/javascript" src="{$mybb->asset_url}/jscripts/general.js?ver=1820"></script>
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/jquery.js?ver=1823"></script>
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/jquery.plugins.min.js?ver=1821"></script>
+<script type="text/javascript" src="{$mybb->asset_url}/jscripts/general.js?ver=1821"></script>
 
 {$stylesheets}
 
