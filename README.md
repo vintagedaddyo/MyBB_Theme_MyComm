@@ -26,6 +26,7 @@ MyComm v1.1
 
 History:
 
+03/18/2022 — Updated "MyComm-theme.xml" file to 1.8.30
 11/2/2021 — Updated "MyComm-theme.xml" file to 1.8.29
 08/14/2020 — Updated "MyComm-theme.xml" file to 1.8.24
 01/1/2020 — Updated "MyComm-theme.xml" file to 1.8.22
